@@ -8,4 +8,4 @@ Repositorio de Saves de servidores de jogos online
 
 ### Import Last Save
 
-```sh ~/save-game-server/project-zomboid/backup.sh```
+```sh ~/save-game-server/project-zomboid/import.sh```
